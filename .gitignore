@@ -1,0 +1,16 @@
+.metadata
+.project
+.classpath
+.checkstyle
+.settings/
+.externalToolBuilders/
+.swagger
+target/
+bin/
+*.db
+*.log
+*.bak
+*.swp
+*~
+*#
+
